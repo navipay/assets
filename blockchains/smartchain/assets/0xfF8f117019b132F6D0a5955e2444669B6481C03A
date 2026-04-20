@@ -1,1 +1,11 @@
-
+{
+  "name": "CST Token",
+  "symbol": "CST",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "CST Token on BNB Smart Chain",
+  "website": "https://你的vercel网站.vercel.app",
+  "explorer": "https://bscscan.com/token/0xfF8f117019b132F6D0a5955e2444669B6481C03A",
+  "status": "active",
+  "id": "0xfF8f117019b132F6D0a5955e2444669B6481C03A"
+}
